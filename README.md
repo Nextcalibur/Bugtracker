@@ -1,20 +1,20 @@
 Project Entropius 2.4.3 Bug Tracker
 ================================
 
-How to use the bugtracker?
+Bugtracker user manual
 -------------------------
-Please verify that you are not submitting a duplicate issue 
 
- - Make sure, that what you report is actually a bug.
- - Enclose links to things related to the bug using http://wowhead.com or Thottbot webarchive.
- - Provide as much detail you can including screenshots and video footage.
- - If the bug is reproducible, explain step by step how to recreate the issue.
- - Write your tickets according to the format:<br>
-  * `[Quest][Azuremyst Isle]` Red Snapper - Very Tasty!<br>
-  * `[NPC]` Magistrix Erona<br>
-  * `[Spell][Mage]` Fireball<br>
+Step 1: Filter the issues and check whether a similar issue already has been submitted.
+Step 2: Ensure the problem you encounter is an actual bug.
+Step 3: Add additional information to the bug (wowhead, thottbot etc.)
+Step 4. Describe the issue. How is it supposed to be and what do you experience now? Screenshots and video footage are appreciated.
+Step 5: If you can reproduce the bug, please write a step-by-step guide on how to do so.
+Step 6: Please add ingame references such as
+  * `[Quest][Netherstorm]` Subdue the Subduer<br>
+  * `[NPC]` Nat Peggle<br>
+  * `[Spell][Warlock]` Shadow Bolt<br>
   * `[Npc][Drop]` Ghostclaw Lynx<br>
-  * `[Web]` Armory doesnt work
+  * `[Web]` Account Verification does not work
 
 
 Additional Information
