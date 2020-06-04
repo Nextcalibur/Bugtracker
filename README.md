@@ -11,12 +11,11 @@ Bugtracker user manual
 - Step 4: If you can reproduce the bug, please write a step-by-step guide on how to do so.
 - Step 5: Please add ingame references such as
 
+  * `[NPC][Raid]` Moroes doesn't vanish<br>
+  * `[Spell][Warlock]` Shadow Bolt always crits<br>
+  * `[Item][Effect]` Stormchops not zapping critters<br>
+  * `[Website]` Account Verification does not work
   * `[Quest][Netherstorm]` Subdue the Subduer<br>
-  * `[NPC]` Nat Peggle<br>
-  * `[Spell][Warlock]` Shadow Bolt<br>
-  * `[Npc][Drop]` Ghostclaw Lynx<br>
-  * `[Web]` Account Verification does not work
-
 
 
 Additional Information
